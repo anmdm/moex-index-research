@@ -1,0 +1,7 @@
+moex_cache/
+*.parquet
+*.csv.gz
+__pycache__/
+*.pyc
+.env
+logs/

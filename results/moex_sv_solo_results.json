@@ -1,0 +1,23 @@
+{
+  "strategy": "D: Group-TP on SV solo",
+  "pnl_pct": 300.59,
+  "maxdd_pct": -16.0,
+  "pnl_dd": 18.78,
+  "trades": 1025,
+  "wins": 973,
+  "sharpe": 0.54,
+  "sortino": 3.14,
+  "yearly": {
+    "2023": 7.7,
+    "2024": 13.3,
+    "2025": 227.5,
+    "2026": 0.3
+  },
+  "params": {
+    "n_parts": 7,
+    "entry_z": 1.2565543952247875,
+    "grid_step_z": 0.05017569001330566,
+    "tp_pct": 0.0022007150559603676,
+    "max_pos": 7
+  }
+}

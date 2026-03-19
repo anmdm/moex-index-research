@@ -1,0 +1,23 @@
+{
+  "strategy": "D: Group-TP (cash-managed)",
+  "pnl_pct": 259.1,
+  "maxdd_pct": -12.5,
+  "pnl_dd": 20.73,
+  "trades": 859,
+  "wins": 778,
+  "sharpe": 0.73,
+  "sortino": 3.91,
+  "yearly": {
+    "2023": 23.6,
+    "2024": 19.8,
+    "2025": 123.6,
+    "2026": 8.5
+  },
+  "params": {
+    "n_parts": 4,
+    "entry_z": 2.4378660164782637,
+    "grid_step_z": 0.6019659871031197,
+    "tp_pct": 0.0036473647254560994,
+    "max_pos": 4
+  }
+}

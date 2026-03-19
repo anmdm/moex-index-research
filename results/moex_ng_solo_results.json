@@ -1,0 +1,23 @@
+{
+  "strategy": "D: Group-TP on NG solo",
+  "pnl_pct": 69.15,
+  "maxdd_pct": -16.39,
+  "pnl_dd": 4.22,
+  "trades": 445,
+  "wins": 400,
+  "sharpe": 0.86,
+  "sortino": 1.19,
+  "yearly": {
+    "2023": 5.9,
+    "2024": 32.8,
+    "2025": 12.0,
+    "2026": 7.3
+  },
+  "params": {
+    "n_parts": 5,
+    "entry_z": 3.7496618953902394,
+    "grid_step_z": 1.8805201995661558,
+    "tp_pct": 0.006354926313677343,
+    "max_pos": 3
+  }
+}

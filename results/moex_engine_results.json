@@ -1,0 +1,82 @@
+{
+  "A: Base (fixed TP)": {
+    "pnl_pct": 18.35,
+    "maxdd_pct": -3.92,
+    "pnl_dd": 4.68,
+    "trades": 441,
+    "wins": 441,
+    "wr_pct": 100.0,
+    "sharpe": 1.37,
+    "sortino": 1.49,
+    "yearly": {
+      "2023": 3.4,
+      "2024": 6.9,
+      "2025": 4.2,
+      "2026": 2.7
+    }
+  },
+  "B: Dev-TP": {
+    "pnl_pct": 2.91,
+    "maxdd_pct": -20.92,
+    "pnl_dd": 0.14,
+    "trades": 81,
+    "wins": 81,
+    "wr_pct": 100.0,
+    "sharpe": 0.12,
+    "sortino": 0.08,
+    "yearly": {
+      "2023": 5.8,
+      "2024": 6.1,
+      "2025": -9.7,
+      "2026": 1.6
+    }
+  },
+  "C: Progressive": {
+    "pnl_pct": 27.56,
+    "maxdd_pct": -40.47,
+    "pnl_dd": 0.68,
+    "trades": 17,
+    "wins": 17,
+    "wr_pct": 100.0,
+    "sharpe": 0.35,
+    "sortino": 0.3,
+    "yearly": {
+      "2023": 8.4,
+      "2024": 20.5,
+      "2025": -5.8,
+      "2026": 3.7
+    }
+  },
+  "D: Group-TP": {
+    "pnl_pct": 91.15,
+    "maxdd_pct": -10.21,
+    "pnl_dd": 8.93,
+    "trades": 1526,
+    "wins": 1377,
+    "wr_pct": 90.2,
+    "sharpe": 1.42,
+    "sortino": 1.59,
+    "yearly": {
+      "2023": 21.6,
+      "2024": 20.4,
+      "2025": 17.6,
+      "2026": 11.0
+    }
+  },
+  "E: Vol-adaptive": {
+    "pnl_pct": 5.16,
+    "maxdd_pct": -9.94,
+    "pnl_dd": 0.52,
+    "trades": 93,
+    "wins": 93,
+    "wr_pct": 100.0,
+    "sharpe": 0.23,
+    "sortino": 0.16,
+    "yearly": {
+      "2023": 2.0,
+      "2024": 5.3,
+      "2025": -2.7,
+      "2026": 0.7
+    }
+  }
+}

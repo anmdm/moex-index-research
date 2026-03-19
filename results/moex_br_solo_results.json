@@ -1,0 +1,23 @@
+{
+  "strategy": "D: Group-TP on BR solo",
+  "pnl_pct": 54.51,
+  "maxdd_pct": -12.52,
+  "pnl_dd": 4.35,
+  "trades": 1049,
+  "wins": 880,
+  "sharpe": 0.5,
+  "sortino": 1.89,
+  "yearly": {
+    "2023": 1.2,
+    "2024": 0.4,
+    "2025": 35.2,
+    "2026": 12.4
+  },
+  "params": {
+    "n_parts": 14,
+    "entry_z": 1.1544064763190693,
+    "grid_step_z": 1.3735489964347083,
+    "tp_pct": 0.0010011380776394302,
+    "max_pos": 8
+  }
+}
