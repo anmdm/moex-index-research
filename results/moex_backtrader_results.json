@@ -1,0 +1,11 @@
+{
+  "engine": "Backtrader (real orders)",
+  "timeframe": "30s",
+  "pnl_pct": 247.66,
+  "maxdd_pct": -12.69,
+  "pnl_dd": 19.51,
+  "trades": 693,
+  "wins": 614,
+  "sharpe": 0.84,
+  "final_value": 34766.14
+}
