@@ -1,0 +1,71 @@
+{
+  "TRUR": {
+    "name": "TRUR",
+    "period": "2023-01-03 -> 2025-12-02",
+    "total_ret": 63.84,
+    "ann_ret": 18.47,
+    "max_dd": -7.98,
+    "pnl_dd": 8.0,
+    "calmar": 2.31,
+    "sharpe": 1.98,
+    "sortino": 3.16,
+    "yearly": {
+      "2023": 25.6,
+      "2024": 14.7,
+      "2025": 12.2
+    },
+    "dd_count": 49,
+    "dd_median": 5.0,
+    "dd_p75": 15.0,
+    "dd_p95": 88.0,
+    "dd_max": 181,
+    "max_consec_loss_days": 6,
+    "daily_vol": 8.64
+  },
+  "TMON": {
+    "name": "TMON",
+    "period": "2023-07-12 -> 2025-12-02",
+    "total_ret": 47.49,
+    "ann_ret": 17.63,
+    "max_dd": -0.28,
+    "pnl_dd": 169.54,
+    "calmar": 62.95,
+    "sharpe": 9.8,
+    "sortino": 16.28,
+    "yearly": {
+      "2023": 5.9,
+      "2024": 18.2,
+      "2025": 17.6
+    },
+    "dd_count": 36,
+    "dd_median": 1.0,
+    "dd_p75": 1.0,
+    "dd_p95": 3.0,
+    "dd_max": 3,
+    "max_consec_loss_days": 2,
+    "daily_vol": 1.63
+  },
+  "INDEX_D": {
+    "strategy": "D: Group-TP (cash-managed)",
+    "pnl_pct": 259.1,
+    "maxdd_pct": -12.5,
+    "pnl_dd": 20.73,
+    "trades": 859,
+    "wins": 778,
+    "sharpe": 0.73,
+    "sortino": 3.91,
+    "yearly": {
+      "2023": 23.6,
+      "2024": 19.8,
+      "2025": 123.6,
+      "2026": 8.5
+    },
+    "params": {
+      "n_parts": 4,
+      "entry_z": 2.4378660164782637,
+      "grid_step_z": 0.6019659871031197,
+      "tp_pct": 0.0036473647254560994,
+      "max_pos": 4
+    }
+  }
+}
